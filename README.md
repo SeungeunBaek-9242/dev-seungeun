@@ -1,1 +1,2 @@
-✋ Hi, I'm seungeun 🐹💜
+* ✋ Hi, I'm seungeun 
+* 🐹💜
